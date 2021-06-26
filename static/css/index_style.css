@@ -1,0 +1,132 @@
+/* Body Format */
+/* Header */
+.header{
+  height: 100px;
+  position: relative;
+  background: #333;
+}
+
+h1 {
+  padding: 20px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  font-size: 35px;
+  color: #eee;
+  text-align: center;
+}
+
+/* Scrape button */
+.hbtn {
+  background-color: #3e678e;
+  color: white;
+  padding: 7px;
+  font-size: 16px;
+
+  position: absolute;
+  top: 52%;
+  margin-left: 4.5%;
+  width: 6%;
+
+}
+
+
+body {
+  padding: 0;
+  margin: 0;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 15px;
+  line-height: 150%;
+  color: #333;
+  background: #efeee7;
+}
+
+
+
+h2 {
+  font-size: 20px;
+}
+
+.container {
+  width: 1024px;
+  margin: 0 auto;
+}
+
+#main-intro
+{
+  float: left;
+}
+
+#figure {
+  position: relative;
+}
+
+#main-intro {
+  width: 70%;
+}
+
+
+/* Mars Fact Table */
+table, th, td{
+  border: 1px solid rgb(61, 61, 61);
+}
+.table{
+  position: fixed;
+  left: 50%;
+  top: 25%;
+}
+
+/* Hemisphere Images */
+#tif-title1{
+  position: fixed;
+  left: 5%;
+  bottom: 26%;
+}
+#tif-title2{
+  position: fixed;
+  left: 25%;
+  bottom: 26%;
+}
+#tif-title3{
+  position: fixed;
+  left: 45%;
+  bottom: 26%;
+}
+#tif-title4{
+  position: fixed;
+  left: 65%;
+  bottom: 26%;
+}
+
+#tif1 {
+  position: fixed;
+  width: 350px;
+  height: 200px;
+  left: 5%;
+  bottom: 5%;
+}
+
+#tif2 {
+  position: fixed;
+  width: 350px;
+  height: 200px;
+  left: 25%;
+  bottom: 5%;
+}
+
+
+#tif3 {
+  position: fixed;
+  width: 350px;
+  height: 200px;
+  left: 45%;
+  bottom: 5%;
+}
+
+
+#tif4 {
+  position: fixed;
+  width: 350px;
+  height: 200px;
+  left: 65%;
+  bottom: 5%;
+}
